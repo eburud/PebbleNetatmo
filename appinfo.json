@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "espen@burud.net",
+    "longName": "Pebble-Netatmo",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Netatmo",
+    "uuid": "186997d2-476c-42eb-93a5-7092f9690954",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
